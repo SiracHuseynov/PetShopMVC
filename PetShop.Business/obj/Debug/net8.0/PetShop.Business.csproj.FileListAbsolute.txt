@@ -1,0 +1,17 @@
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\bin\Debug\net8.0\PetShop.Business.deps.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\bin\Debug\net8.0\PetShop.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\bin\Debug\net8.0\PetShop.Business.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\obj\Debug\net8.0\PetShop.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\obj\Debug\net8.0\PetShop.Business.AssemblyInfoInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\obj\Debug\net8.0\PetShop.Business.AssemblyInfo.cs
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\obj\Debug\net8.0\PetShop.Business.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\obj\Debug\net8.0\PetShop.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\obj\Debug\net8.0\refint\PetShop.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\obj\Debug\net8.0\PetShop.Business.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\obj\Debug\net8.0\ref\PetShop.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\bin\Debug\net8.0\PetShop.Core.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\bin\Debug\net8.0\PetShop.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\bin\Debug\net8.0\PetShop.Data.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\bin\Debug\net8.0\PetShop.Core.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\obj\Debug\net8.0\PetShop.Business.csproj.AssemblyReference.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\PetShop.Business\obj\Debug\net8.0\PetShop..AFE9BA45.Up2Date
